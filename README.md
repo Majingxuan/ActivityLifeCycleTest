@@ -1,0 +1,2 @@
+# ActivityLifeCycleTest
+# Just for study
